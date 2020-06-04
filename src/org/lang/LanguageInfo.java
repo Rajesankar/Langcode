@@ -21,7 +21,7 @@ public class LanguageInfo {
 		i.hindiLan();
 		
 		
-		
+		System.out.println("Raje code added");		
 	}
 
 }
