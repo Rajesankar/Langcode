@@ -20,8 +20,9 @@ public class LanguageInfo {
 		i.englan();
 		i.hindiLan();
 		
+		System.out.println("Saravana code added...");
 		
-		System.out.println("Raje code added");		
+			
 	}
 
 }
